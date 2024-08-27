@@ -1,0 +1,33 @@
+h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    border: 5px outset rgb(228, 229, 231);
+    background-color: rgb(9, 85, 110);
+    padding: 10px;
+}
+
+h2{
+    color: rgb(9, 85, 110);
+}
+
+body {
+background-image: url(../images/background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+height: 200vh;
+
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color:rgb(9, 85, 110);
+    border-radius: 50%;
+   
+
+}
